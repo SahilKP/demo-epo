@@ -7,7 +7,7 @@ Metadata:
      ParametersGroups:
        -
           Label:
-            default: "VPC CIDR"
+            default: "Vpc Cidr"
           Parameters:
             - VpcCIDR
 
