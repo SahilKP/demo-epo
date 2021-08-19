@@ -262,7 +262,7 @@ Resources:
           Value: Database Server Security Group
 
 
-Outputs:
+#Outputs:
   VPC:
     Description: VPC ID
     Export:
